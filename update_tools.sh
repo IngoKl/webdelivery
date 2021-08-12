@@ -23,14 +23,14 @@ wget https://github.com/carlospolop/PEASS-ng/raw/master/winPEAS/winPEASexe/binar
 mv linuxprivchecker.py legacy
 wget https://raw.githubusercontent.com/sleventyeleven/linuxprivchecker/master/linuxprivchecker.py
 
-mv SharpHound.ps1
+mv SharpHound.ps1 legacy
 wget https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors/SharpHound.ps1
 
-mv SharpHound.exe
+mv SharpHound.exe legacy
 wget https://github.com/BloodHoundAD/BloodHound/raw/master/Collectors/SharpHound.exe
 
-mv AzureHound.ps1
+mv AzureHound.ps1 legacy
 wget https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors/AzureHound.ps1
 
-mv nc.exe
+mv nc.exe legacy
 wget https://github.com/diegocr/netcat/raw/master/nc.exe
