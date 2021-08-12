@@ -31,3 +31,6 @@ wget https://github.com/BloodHoundAD/BloodHound/raw/master/Collectors/SharpHound
 
 mv AzureHound.ps1
 wget https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors/AzureHound.ps1
+
+mv nc.exe
+wget https://github.com/diegocr/netcat/raw/master/nc.exe
