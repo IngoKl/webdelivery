@@ -34,3 +34,6 @@ wget https://raw.githubusercontent.com/BloodHoundAD/BloodHound/master/Collectors
 
 mv nc.exe legacy
 wget https://github.com/diegocr/netcat/raw/master/nc.exe
+
+mv lse.sh legacy
+wget https://github.com/diego-treitos/linux-smart-enumeration/blob/master/lse.sh
