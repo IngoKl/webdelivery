@@ -31,3 +31,4 @@ Currently the webserver will be populated with the following tools and scripts:
 * SharpHound (.ps1 and .exe)
 * Sherlock
 * winPEAS (x64 and x86)
+* lse.sh
