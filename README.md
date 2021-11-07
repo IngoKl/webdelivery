@@ -32,3 +32,8 @@ Currently the webserver will be populated with the following tools and scripts:
 * Sherlock
 * winPEAS (x64 and x86)
 * lse.sh
+* pspy64
+* PowerUp.ps1
+* Seatbelt
+* SharpUp
+* Rubeus
