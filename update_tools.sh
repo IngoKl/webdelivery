@@ -40,3 +40,17 @@ wget https://github.com/diego-treitos/linux-smart-enumeration/blob/master/lse.sh
 
 mv pspy64 legacy
 wget https://github.com/DominicBreuker/pspy/releases/download/v1.2.0/pspy64
+
+mv PowerUp.ps1 legacy
+wget https://raw.githubusercontent.com/PowerShellEmpire/PowerTools/master/PowerUp/PowerUp.ps1
+
+mv SeatbeltNet3.5x64.exe legacy
+mv SeatbeltNet3.5x86.exe legacy
+wget https://github.com/carlospolop/winPE/blob/master/binaries/seatbelt/SeatbeltNet3.5x64.exe
+wget https://github.com/carlospolop/winPE/blob/master/binaries/seatbelt/SeatbeltNet3.5x86.exe
+
+mv SharpUp.exe legacy
+wget https://github.com/r3motecontrol/Ghostpack-CompiledBinaries/blob/master/SharpUp.exe
+
+mv Rubeus.exe legacy
+wget https://github.com/r3motecontrol/Ghostpack-CompiledBinaries/blob/master/Rubeus.exe
