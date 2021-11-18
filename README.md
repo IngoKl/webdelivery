@@ -24,16 +24,18 @@ Currently the webserver will be populated with the following tools and scripts:
 
 * AzureHound
 * LinEnum
+* PowerUp.ps1
+* PrivescCheck
+* Rubeus
+* Seatbelt
+* SharpHound (.ps1 and .exe)
+* SharpUp
+* Sherlock
 * linPEAS
 * linux-exploit-suggester
 * linuxprivchecker
-* nc.exe
-* SharpHound (.ps1 and .exe)
-* Sherlock
-* winPEAS (x64 and x86)
 * lse.sh
+* nc.exe
 * pspy64
-* PowerUp.ps1
-* Seatbelt
-* SharpUp
-* Rubeus
+* winPEAS (x64 and x86)
+
