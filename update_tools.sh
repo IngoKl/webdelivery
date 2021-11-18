@@ -54,3 +54,6 @@ wget https://github.com/r3motecontrol/Ghostpack-CompiledBinaries/blob/master/Sha
 
 mv Rubeus.exe legacy
 wget https://github.com/r3motecontrol/Ghostpack-CompiledBinaries/blob/master/Rubeus.exe
+
+mv PrivescCheck.ps1 legacy
+wget https://raw.githubusercontent.com/itm4n/PrivescCheck/master/PrivescCheck.ps1
