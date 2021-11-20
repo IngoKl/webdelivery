@@ -36,7 +36,7 @@ mv nc.exe legacy
 wget https://github.com/diegocr/netcat/raw/master/nc.exe
 
 mv lse.sh legacy
-wget https://github.com/diego-treitos/linux-smart-enumeration/blob/master/lse.sh
+wget https://raw.githubusercontent.com/diego-treitos/linux-smart-enumeration/master/lse.sh
 
 mv pspy64 legacy
 wget https://github.com/DominicBreuker/pspy/releases/download/v1.2.0/pspy64
