@@ -57,3 +57,6 @@ wget https://github.com/r3motecontrol/Ghostpack-CompiledBinaries/blob/master/Rub
 
 mv PrivescCheck.ps1 legacy
 wget https://raw.githubusercontent.com/itm4n/PrivescCheck/master/PrivescCheck.ps1
+
+mv linux-exploit-suggester-2.pl legacy
+wget https://raw.githubusercontent.com/jondonas/linux-exploit-suggester-2/master/linux-exploit-suggester-2.pl
