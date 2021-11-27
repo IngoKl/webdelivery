@@ -60,3 +60,6 @@ wget https://raw.githubusercontent.com/itm4n/PrivescCheck/master/PrivescCheck.ps
 
 mv linux-exploit-suggester-2.pl legacy
 wget https://raw.githubusercontent.com/jondonas/linux-exploit-suggester-2/master/linux-exploit-suggester-2.pl
+
+mv jaws-enum.ps1 legacy
+wget https://raw.githubusercontent.com/411Hall/JAWS/master/jaws-enum.ps1

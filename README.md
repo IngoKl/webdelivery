@@ -39,3 +39,4 @@ Currently the webserver will be populated with the following tools and scripts:
 * pspy64
 * winPEAS (x64 and x86)
 * linux-exploit-suggester-2.pl
+* jaws-enum.ps
